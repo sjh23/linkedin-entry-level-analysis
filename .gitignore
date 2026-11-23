@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data (download from Kaggle)
+data/
+# Kaggle credentials
+kaggle.json
+access_token*
